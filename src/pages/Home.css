@@ -1,0 +1,35 @@
+button{
+    border-radius: 2px;
+}
+.home-navbar{
+    display: flex;
+}
+.home-person{
+    align-content: flex-start;
+}
+.home-settings{
+    align-content: end;
+}
+
+.home-title{
+    text-align: center;
+}
+.home{
+    background-color: rgba(5, 158, 230, 0.397);
+    align-content: center;
+    align-items: center;
+
+}
+.home-card{
+    margin-top:10%;
+    height:90%;
+
+}
+.home-thumbprint{
+    width: 200px;
+    margin-top: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
